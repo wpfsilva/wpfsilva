@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é Waldemar Patrique Flores Silva
+- 👋 Oi, meu nome é Waldemar
 - 👀 Procuro aprender sobre a área de segurança
 - 🌱 Atualmente estou aprendendo C, java, python ...
 - 💞️ Estou a procura de colaborar com projetos que envolvam pen-test.
