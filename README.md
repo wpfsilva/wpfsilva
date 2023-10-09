@@ -6,6 +6,7 @@ Sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:wpf.silva@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/waldemar-silva-9a7b5524/)
 [![LinkedIn](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/wpfsilva/)
+[![Whatsapp](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=whatsapp&logoColor=30A3DC)](https://api.whatsapp.com/send/?phone=%2B5534998032768)
 
 
 ### Habilidades
